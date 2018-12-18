@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="default_artifact">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../livytest/out/artifacts/livytest_DefaultArtifact/default_artifact.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
